@@ -1,0 +1,30 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  modelerapp.cpp
+c:\users\bifen\downloads\final project\makeithome15 skeleton\modelerapp.cpp(42): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\users\bifen\downloads\final project\makeithome15 skeleton\modelerapp.cpp(75): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\bifen\downloads\final project\makeithome15 skeleton\modelerapp.cpp(216): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bifen\downloads\final project\makeithome15 skeleton\modelerapp.cpp(244): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bifen\downloads\final project\makeithome15 skeleton\modelerapp.cpp(245): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bifen\downloads\final project\makeithome15 skeleton\modelerapp.cpp(246): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bifen\downloads\final project\makeithome15 skeleton\modelerapp.cpp(247): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bifen\downloads\final project\makeithome15 skeleton\modelerapp.cpp(289): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bifen\downloads\final project\makeithome15 skeleton\modelerapp.cpp(290): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bifen\downloads\final project\makeithome15 skeleton\modelerapp.cpp(291): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bifen\downloads\final project\makeithome15 skeleton\modelerapp.cpp(292): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bifen\downloads\final project\makeithome15 skeleton\modelerapp.cpp(251): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\bifen\downloads\final project\makeithome15 skeleton\modelerapp.cpp(254): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\bifen\downloads\final project\makeithome15 skeleton\modelerapp.cpp(296): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\bifen\downloads\final project\makeithome15 skeleton\modelerapp.cpp(299): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+  MCMC.cpp
+c:\users\bifen\downloads\final project\makeithome15 skeleton\mcmc.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bifen\downloads\final project\makeithome15 skeleton\mcmc.cpp(124): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bifen\downloads\final project\makeithome15 skeleton\mcmc.cpp(127): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bifen\downloads\final project\makeithome15 skeleton\mcmc.cpp(130): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  modeler.vcxproj -> C:\Users\bifen\Downloads\final project\MakeItHome15 Skeleton\.\Debug\modeler.exe
